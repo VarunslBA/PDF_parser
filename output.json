@@ -1,0 +1,329 @@
+{
+    "text": [
+        "Smurfit Kappa Nettingsdorf AG & CO KG; A-4053 Haid bei Ansfelden; UID-Nr. ATU 50345005\nDVR: 0051241; Firmenbuchnummer FN 200265 h beim Landes- und Handelsgericht Linz \n                                   bearbeitet von: Andreas Edlmair\n                                   Telefon       : 0043 7229 863 290\nA-2355 Wiener Neudorf              Telefax       : \n                                   Email         : andreas.edlmair@smurfitkappa.at\n------------------------------------------------------------------------------------------\nFahrzeug        : Tautliner (Kein H\u00e4ngerzug!)\nVerladeart      : Stehend versetzt - ansonsten stehend mittig\nLadungsart      : Komplett-Ladung\nLademeter       : -\nVerzollungssped.: \nEmpfangssped.   : \n------------------------------------------------------------------------------------------\nLadetermin      : 22.04.2022 bis 17 Uhr in Haid\nEintrefftermin  : 28.04.2022 06:00-20:00 Uhr\n------------------------------------------------------------------------------------------\nAbholorte       :\nAL Keimelmayr/Haid             Kremstalsta\u00dfe 2                A - 4053 Haid                 \nNettingsdorfer/Rampe 2/3       Nettingsdorfer Stra\u00dfe 40       A - 4053 Haid bei Ansfelden   \n------------------------------------------------------------------------------------------\nLi / Po Auftrag-Teil.   Versandadresse Kurzbezeichnung Ro     To So Gramm Breite\n------------------------------------------------------------------------------------------\n------------------------------------------------------------------------------------------\nGesamtgewicht in Tonnen                                     28,0\n------------------------------------------------------------------------------------------\nEntladeorte     :\nLi / Po\n 1      Coldenhovenseweg 00122, NL-6961 EH Eerbeek\n      4  2 7375504501\n      3  2 7375504301\n      1  2 7375503001\n      2  2 7375503801\n01: 06:00-20:00 Uhr\n------------------------------------------------------------------------------------------\nSonstiges:\n605337-12-2 + 605337-15-2 in Haid, der Rest in NPF\n------------------------------------------------------------------------------------------\n 1 - F\u00fcr die Ladungssicherung, die durch Ihren Fahrer zu erfolgen hat, sind folgende Elemente\n     erforderlich: 36 Antirutschmatten (80 x 15 x 0,2 cm), 15 Spanngurte und 15 Ratschen      \n     (1200-1400 daN Niederspannkraft) sowie Kantenschutz f\u00fcr mindestens 15 Papierrollen.  \n     Ihre Fahrer sind f\u00fcr die Ladungssicherung mitverantwortlich und dahingehend anzuweisen.\n   - Es nicht gestattet ist, Kinder und Tiere auf das Werksgel\u00e4nde mitzunehmen!\n   - Sie best\u00e4tigen, dass Sie \u00fcber alle f\u00fcr den Transport erforderlichen und den einschl\u00e4gigen\n     Bestimmungen entsprechenden Erlaubnissen u. Berechtigungen verf\u00fcgen sowie\n     Fahrpersonal mit der entsprechenden Arbeitsgenehmigung einsetzen.\n   - Bitte diese Transportmittelbestellung sofort best\u00e4tigt (Datum, Unterschrift) retournieren!\n------------------------------------------------------------------------------------------Transport company                        TMB/VERS.NR.  : 942314/1/1\nTransport company    Sendedatum    : 20.04.2022 11:56\n 1 /  1 605337/08/02/92 SK Zeeuw                0    5,0 KL 186    999\n 1 /  2 605337/12/02/83 SK Zeeuw                0    7,5 KL 225    999\n 1 /  3 605337/14/02/70 SK Zeeuw                0    7,5 KL 275    999\n 1 /  4 605337/15/02/68 SK Zeeuw                0    8,0 KL 275    999"
+    ],
+    "ner_results": [
+        [
+            {
+                "text": "Nettingsdorf AG & CO KG",
+                "label": "ORG"
+            },
+            {
+                "text": "Haid",
+                "label": "PERSON"
+            },
+            {
+                "text": "Ansfelden",
+                "label": "ORG"
+            },
+            {
+                "text": "UID-Nr",
+                "label": "ORG"
+            },
+            {
+                "text": "ATU 50345005",
+                "label": "PERSON"
+            },
+            {
+                "text": "0051241",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "Firmenbuchnummer",
+                "label": "PERSON"
+            },
+            {
+                "text": "200265",
+                "label": "DATE"
+            },
+            {
+                "text": "Handelsgericht",
+                "label": "ORG"
+            },
+            {
+                "text": "Telefon       ",
+                "label": "PERSON"
+            },
+            {
+                "text": "7229",
+                "label": "DATE"
+            },
+            {
+                "text": "863",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "Neudorf              Telefax       ",
+                "label": "ORG"
+            },
+            {
+                "text": "Fahrzeug        ",
+                "label": "FAC"
+            },
+            {
+                "text": "Verladeart      : Stehend",
+                "label": "PERSON"
+            },
+            {
+                "text": "Ladetermin      ",
+                "label": "PERSON"
+            },
+            {
+                "text": "22.04.2022",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "17",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "Haid\nEintrefftermin",
+                "label": "ORG"
+            },
+            {
+                "text": "28.04.2022 06:00-20:00 Uhr\n",
+                "label": "TIME"
+            },
+            {
+                "text": "AL Keimelmayr",
+                "label": "PERSON"
+            },
+            {
+                "text": "Haid                 \nNettingsdorfer/Rampe",
+                "label": "ORG"
+            },
+            {
+                "text": "Haid",
+                "label": "PERSON"
+            },
+            {
+                "text": "Ansfelden",
+                "label": "PERSON"
+            },
+            {
+                "text": "Li / Po Auftrag-Teil",
+                "label": "PERSON"
+            },
+            {
+                "text": "Versandadresse Kurzbezeichnung Ro     ",
+                "label": "PERSON"
+            },
+            {
+                "text": "Gesamtgewicht",
+                "label": "ORG"
+            },
+            {
+                "text": "4",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "3",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "1",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "2",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "01",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "06:00-20:00 Uhr\n",
+                "label": "TIME"
+            },
+            {
+                "text": "Sonstiges",
+                "label": "PERSON"
+            },
+            {
+                "text": "605337-12-2 + 605337-15-2",
+                "label": "DATE"
+            },
+            {
+                "text": "Haid",
+                "label": "GPE"
+            },
+            {
+                "text": "Rest",
+                "label": "PERSON"
+            },
+            {
+                "text": "NPF",
+                "label": "ORG"
+            },
+            {
+                "text": "Ladungssicherung",
+                "label": "PERSON"
+            },
+            {
+                "text": "Ihren Fahrer",
+                "label": "PERSON"
+            },
+            {
+                "text": "36",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "80",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "15 x 0,2 cm",
+                "label": "QUANTITY"
+            },
+            {
+                "text": "15",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "Spanngurte",
+                "label": "ORG"
+            },
+            {
+                "text": "15",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "1200-1400",
+                "label": "DATE"
+            },
+            {
+                "text": "daN Niederspannkraft",
+                "label": "PERSON"
+            },
+            {
+                "text": "Kantenschutz",
+                "label": "PERSON"
+            },
+            {
+                "text": "15",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "Papierrollen",
+                "label": "NORP"
+            },
+            {
+                "text": "Ihre Fahrer",
+                "label": "PERSON"
+            },
+            {
+                "text": "Ladungssicherung",
+                "label": "PERSON"
+            },
+            {
+                "text": "anzuweisen",
+                "label": "PERSON"
+            },
+            {
+                "text": "Kinder",
+                "label": "ORG"
+            },
+            {
+                "text": "Tiere",
+                "label": "PRODUCT"
+            },
+            {
+                "text": "das Werksgel\u00e4nde",
+                "label": "PRODUCT"
+            },
+            {
+                "text": "Sie",
+                "label": "ORG"
+            },
+            {
+                "text": "f\u00fcr den",
+                "label": "ORG"
+            },
+            {
+                "text": "Bestimmungen entsprechenden Erlaubnissen",
+                "label": "ORG"
+            },
+            {
+                "text": "Berechtigungen",
+                "label": "ORG"
+            },
+            {
+                "text": "Datum",
+                "label": "ORG"
+            },
+            {
+                "text": "Unterschrift",
+                "label": "ORG"
+            },
+            {
+                "text": "Sendedatum",
+                "label": "PRODUCT"
+            },
+            {
+                "text": "20.04.2022 11:56",
+                "label": "TIME"
+            },
+            {
+                "text": "1",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "0",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "186",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "1 /  2 605337/12/02/83",
+                "label": "DATE"
+            },
+            {
+                "text": "0",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "225",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "999",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "1",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "0",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "275",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "999",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "1 /  4",
+                "label": "DATE"
+            },
+            {
+                "text": "KL",
+                "label": "PERSON"
+            },
+            {
+                "text": "275",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "999",
+                "label": "CARDINAL"
+            }
+        ]
+    ]
+}
